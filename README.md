@@ -2,6 +2,7 @@
 - 👀 I’m interested in Ethical Hacking and DevOps  
 - 🌱 I’m currently learning Next.js, TypeScript, Cloud, Docker, and CyberSec  
 - 💞️ I’m looking to collaborate on ...
+- 
  ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U0a2xmdTI1ZnhsNjQxdWNrbnM1bzIwZzhscW5yMDZmY2c4aHJudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif)
 
 <!---
