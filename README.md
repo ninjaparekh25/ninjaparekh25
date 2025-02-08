@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking and DevOps  
 - 🌱 I’m currently learning Next.js, TypeScript, Cloud, Docker, and CyberSec  
 - 💞️ I’m looking to collaborate on ...
-- (https://tenor.com/view/bleach-gif-25141892)
+- ![](https://github.com/ninjaparekh25/gif.git)
 
 <!---
 ninjaparekh25/ninjaparekh25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
