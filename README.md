@@ -1,88 +1,106 @@
 <h1 align="center">Hi 👋, I'm Meet Parekh</h1>
-<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast</h3>
+<h3 align="center">👨‍💻 Developer | 🎮 Game Creator | 🔐 Ethical Hacker | 🚀 DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+stuff+%F0%9F%92%BB;Let%27s+collaborate+and+create+something+awesome+%F0%9F%92%A1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+build+games+and+apps+that+make+an+impact.;Ethical+Hacker+%7C+DevOps+Explorer+%7C+Unity+Dev" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **Open-source projects & SaaS apps**
-- 🌱 I’m currently learning: **AI tools, Next.js, and DevOps**
-- 👯 I’m looking to collaborate on: **Full Stack Web Projects, APIs, and UI Kits**
-- 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, and TypeScript**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)** | **meetparekh@example.com**
-- ⚡ Fun fact: *I debug for fun and design for impact 💡*
+- 🎮 Game dev with **Unity + C#**
+- 🛡️ Passionate about **cybersecurity & hacking tools**
+- 💻 Backend-focused but fluent across the stack
+- 🧰 Currently diving deeper into **DevOps, AI, and Linux internals**
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)**
 
 ---
 
-### 🛠️ Tech Stack
+### ⚒️ Tech Stack
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+#### 🖥️ Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+#### 🎮 Game Development
+![Unity](https://img.shields.io/badge/-Unity-000?style=flat-square&logo=unity&logoColor=white)
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+#### 🧠 Backend / Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 
-**DevOps & Tools:**
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)
+#### 🔐 Hacking / Security Tools
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-004575?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6600?style=flat-square)
+![Metasploit](https://img.shields.io/badge/-Metasploit-4E4E4E?style=flat-square)
+
+#### ⚙️ DevOps / Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)
 ![Postman](https://img.shields.io/badge/-Postman-F3682F?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Featured Projects
+
+- 🎯 [**FPS Game Final Year Project**](https://github.com/yourusername/fps-game) — Immersive FPS made in Unity with C#.
+- 🔧 [**Streamify Video Calls**](https://github.com/yourusername/streamify-video-calls) — WebRTC video app with full-stack integration.
+- 🛡️ [**Hacking Toolkit CLI**](https://github.com/yourusername/hacking-toolkit) — Ethical hacking tools wrapper in Bash & Python.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetparekh123&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetparekh123&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meetparekh123&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetparekh123&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
-### 🚀 Projects Showcase
+### 🧠 Contribution Graph
 
-- 🔗 [**Your Best Project Name**](https://github.com/yourusername/yourproject) — a brief tagline.
-- 🔗 [**Another Project**](https://github.com/yourusername/anotherproject) — a short description here.
+<p align="center">
+  <img src="./2f04aec7-3cf1-49c5-84cf-5d99504ab8bd.png" alt="GitHub Contribution Graph" />
+</p>
 
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Fullstack App with Next.js & MongoDB](#)
-- [Top 10 VSCode Extensions for Developers](#)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <i>Consistent coder with 120+ contributions and growing! 🔥</i>
+</p>
 
 ---
 
-### 💬 Let's Connect!
+### 🔗 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOURUSERNAME/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:meetparekh@example.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/meetparekh123">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile — Let's build something amazing together! ✨</p>
-
-- 
- ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U0a2xmdTI1ZnhsNjQxdWNrbnM1bzIwZzhscW5yMDZmY2c4aHJudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif)
-
-<!---
-ninjaparekh25/ninjaparekh25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<p align="center">✨ Thanks for visiting! Keep hacking, building, and learning. ✨</p>
