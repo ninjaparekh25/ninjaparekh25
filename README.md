@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Parekh</h1>
-<h3 align="center">👨‍💻 Developer | 🎮 Game Creator | 🔐 Ethical Hacker | 🚀 DevOps Enthusiast</h3>
+<h3 align="center">👨‍💻 Developer | 🎮 Game Devloper Enthusiast | 🔐 Ethical Hacker | 🚀 DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+build+games+and+apps+that+make+an+impact.;Ethical+Hacker+%7C+DevOps+Explorer+%7C+Unity+Dev" />
@@ -13,7 +13,7 @@
 - 🛡️ Passionate about **cybersecurity & hacking tools**
 - 💻 Backend-focused but fluent across the stack
 - 🧰 Currently diving deeper into **DevOps, AI, and Linux internals**
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)**
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mgp25/)**
 
 ---
 
@@ -61,7 +61,7 @@
 ### 🚀 Featured Projects
 
 - 🎯 [**FPS Game Final Year Project**](https://github.com/yourusername/fps-game) — Immersive FPS made in Unity with C#.
-- 🔧 [**Streamify Video Calls**](https://github.com/yourusername/streamify-video-calls) — WebRTC video app with full-stack integration.
+- 🔧 [**Streamify Video Calls**](https://github.com/ninjaparekh25/streamify-video-calls) — WebRTC video app with full-stack integration.
 - 🛡️ [**Hacking Toolkit CLI**](https://github.com/yourusername/hacking-toolkit) — Ethical hacking tools wrapper in Bash & Python.
 
 ---
@@ -69,20 +69,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetparekh123&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetparekh123&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ninjaparekh25&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaparekh25&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
-### 🧠 Contribution Graph
+### 🧠 Contribution Graph (Live)
 
 <p align="center">
-  <img src="./2f04aec7-3cf1-49c5-84cf-5d99504ab8bd.png" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninjaparekh25&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <i>Consistent coder with 120+ contributions and growing! 🔥</i>
+  <i>Auto-updated contribution graph showing my coding consistency! 🔥</i>
 </p>
 
 ---
@@ -90,13 +90,13 @@
 ### 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOURUSERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/mgp25/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:meetparekh@example.com">
+  <a href="mailto:meetgparekh123@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/meetparekh123">
+  <a href="https://github.com/ninjaparekh25">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
