@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Meet Parekh</h1>
-<h3 align="center">👨‍💻 Developer | 🎮 Game Devloper Enthusiast | 🔐 Ethical Hacker | 🚀 DevOps Enthusiast</h3>
+
+<h3 align="center">
+  👨‍💻 Developer &nbsp;|&nbsp; 🎮 Game Dev Enthusiast &nbsp;|&nbsp; 🔐 Ethical Hacker &nbsp;|&nbsp; 🚀 DevOps Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+build+games+and+apps+that+make+an+impact.;Ethical+Hacker+%7C+DevOps+Explorer+%7C+Unity+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=I+build+games+and+apps+that+matter.;I+love+playing+with+code.;Security+and+Automation+are+fun!;Let's+build+something+cool." alt="Typing SVG" />
 </p>
+
 
 ---
 
