@@ -1,4 +1,3 @@
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/0xNiNjA.png" alt="Your Image Badge" />
 
 <h1 align="center">Hi 👋, I'm Meet Parekh</h1>
 
@@ -110,3 +109,8 @@
 ---
 
 <p align="center">✨ Thanks for visiting! Keep hacking, building, and learning. ✨</p>
+
+
+<h1 align="center">My Try Hack Me Badge
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/0xNiNjA.png" alt="Your Image Badge" />
+</h1>
