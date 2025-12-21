@@ -112,6 +112,5 @@
 
 
 <h1 align="center">My Try Hack Me Badge
-<iframe align="center" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2230775" style='border:none;'></iframe>
-
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/0xNiNjA.png" alt="Your Image Badge" />
 </h1>
