@@ -112,6 +112,7 @@
 
 
 <h1 align="center">My Try Hack Me Badge
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/0xNiNjA.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xNiNjA.png" alt="Your Image Badge" />
+
 
 </h1>
